@@ -9,4 +9,5 @@ Jquery,javascript,ajax,bootwatch,phpmyadmin,laravel framewok have used.
 by using restful api we can add,delete,update list of the items.
 
 https://code.jquery.com/
+
 https://bootswatch.com
